@@ -1,0 +1,62 @@
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:05:55,Human,Bot,X,5,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,5,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,6,corner,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,5,center,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,Draw,9,middle,Draw
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,6,middle,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,5,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,8,corner,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,8,corner,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,8,middle,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,6,middle,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,5,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,6,center,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,center,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,8,middle,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,corner,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,O,8,center,Loss
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,9,middle,Win
+date,player1,player2,winner,mover_count,first_move,result
+2023-12-06 05:06:14,Bot,Bot,X,7,corner,Win
